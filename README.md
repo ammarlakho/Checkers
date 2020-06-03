@@ -2,5 +2,6 @@
 
 A checkers AI implemented using the minimax algorithm. 
 
-How to Play?
+**How to Play?** <h2>
+
 Simply click on the [JAR](https://github.com/ammarlakho/Checkers/blob/master/Checkers.jar) file above and download it. 
